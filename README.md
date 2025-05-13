@@ -1,4 +1,4 @@
 # New Project 
 
 This poject was created  from local system.
-Jay Nikhar
+created by Jay Nikhar.
